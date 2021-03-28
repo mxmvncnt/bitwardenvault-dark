@@ -1,6 +1,6 @@
 /* ==UserStyle==
-@name           BitwardenVault-Dark
-@namespace      https://github.com/Adaoh2/bitwardenvault-dark/
+@name           Bitwarden_Dark
+@namespace      github.com/openstyles/stylus
 @version        1.0.0
 @description    A dark mode for the bitwarden vault
 @author         Adaoh2
@@ -33,12 +33,19 @@
         background-color: #0b0b0b;
         border: 1px solid #3e3e3e;
     }
-    /* .btn-outline-secondary:hover,
-    .swal2-popup .swal2-actions button.swal2-cancel:hover {
-        color: #212529;
-        background-color: #686868;
-        border-color: #ced4da;
-    } */
+    .btn[class*="btn-outline-"]:not(:hover),
+    .swal2-popup .swal2-actions button[class*="btn-outline-"]:not(:hover) {
+        border: 0px;
+        color: #0079e4;
+        background-color: #252525;
+    }
+    .btn-outline-secondary:hover:not(:disabled),
+    .swal2-popup .swal2-actions button.swal2-cancel:hover:not(:disabled) {
+        color: #0079e4;
+        border: 0px;
+        background-color: #1e1e1e;
+    }
+
     /*----- My Vault Page -----*/
     body {
         background-color: #141414;
@@ -53,10 +60,28 @@
     .table.table-list tr {
         background-color: #0f0f0f;
     }
-    .table th, .table td {
-    border-top: 1px solid #6f6f6f;
-}
-    .table.table-list td small, .table.table-list td > .fa, .table.table-list td .icon {
-    color: #b9b9b9;
+    .table th,
+    .table td {
+        border-top: 1px solid #6f6f6f;
+    }
+    .table.table-list td small,
+    .table.table-list td > .fa,
+    .table.table-list td .icon {
+        color: #b9b9b9;
+    }
+    /*--- Edit Item card----*/
+    .modal-header,
+    .modal-content,
+
+    .modal-footer {
+        background-color: #141414;
+        border: 1px solid #141414;
+    }
+
+    .modal-body {
+        border-radius: 10px;
+    }.close:hover, .close {
+    color: #f00;
+        text-shadow: 0 0px;
 }
 }
