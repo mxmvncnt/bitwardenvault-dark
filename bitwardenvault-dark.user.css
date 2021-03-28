@@ -1,0 +1,62 @@
+/* ==UserStyle==
+@name           BitwardenVault-Dark
+@namespace      https://github.com/Adaoh2/bitwardenvault-dark/
+@version        1.0.0
+@description    A dark mode for the bitwarden vault
+@author         Adaoh2
+==/UserStyle== */
+@-moz-document domain("vault.bitwarden.com") {
+    /*--- Login Page ---*/
+    html {
+        background-color: #141414;
+    }
+    body.layout_frontend {
+        background-color: #141414;
+    }
+    img.logo {
+        filter: invert(1);
+    }
+    .text-center {
+        color: #cacaca;
+    }
+    .card {
+        background-color: #111;
+        border: 1px solid rgba(255, 255, 255, .125);
+        border-radius: 10px;
+    }
+    label {
+        color: #b7b7b7;
+    }
+    .form-control,
+    .form-control:focus {
+        color: #d3d3d3;
+        background-color: #0b0b0b;
+        border: 1px solid #3e3e3e;
+    }
+    /* .btn-outline-secondary:hover,
+    .swal2-popup .swal2-actions button.swal2-cancel:hover {
+        color: #212529;
+        background-color: #686868;
+        border-color: #ced4da;
+    } */
+    /*----- My Vault Page -----*/
+    body {
+        background-color: #141414;
+        color: #cacaca;
+    }
+    app-vault-groupings .card .card-body a,
+    app-org-vault-groupings .card .card-body a,
+    .groupings .card .card-body a {
+        color: #cacaca;
+    }
+    /*- middle list darker -*/
+    .table.table-list tr {
+        background-color: #0f0f0f;
+    }
+    .table th, .table td {
+    border-top: 1px solid #6f6f6f;
+}
+    .table.table-list td small, .table.table-list td > .fa, .table.table-list td .icon {
+    color: #b9b9b9;
+}
+}
