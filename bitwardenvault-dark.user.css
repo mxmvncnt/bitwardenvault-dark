@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Bitwarden_Dark
 @namespace      github.com/openstyles/stylus
-@version        1.0.1
+@version        1.0.2
 @description    A dark mode for the bitwarden vault
 @author         Adaoh2
 ==/UserStyle== */
@@ -80,8 +80,33 @@
 
     .modal-body {
         border-radius: 10px;
-    }.close:hover, .close {
-    color: #f00;
+    }
+    .close:hover,
+    .close {
+        color: #f00;
         text-shadow: 0 0px;
-}
+    }
+    /*---- Tools section ----*/
+    app-password-generator .card-password .card-body {
+        background-color: #1e1e1e;
+    }
+    .bg-light {
+        background-color: #fff0 !important;
+    }
+    .list-group-item.active {
+        background-color: #252525;
+        color: #fff;
+    }
+    .list-group-item {
+        background-color: #1e1e1e;
+    }
+    /*------ settings section ------*/
+    .form-control:disabled,
+    .form-control[readonly] {
+        background-color: #393939;
+        color: #c8c8c8;
+    }
+    .callout {
+        background-color: #1e1e1e;
+    }
 }
