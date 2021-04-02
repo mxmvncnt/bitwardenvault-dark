@@ -4,9 +4,9 @@ A dark mode for the web vault of Bitwarden
 
 # Index
 * [Images (coming soon)](#Images)
-* [Installation (Français)](#-🇫🇷-Installation)
-* [Installation (English)](#-🇬🇧-Installation)
-* [Installation (Español)](#-🇪🇸-Installation)
+* [Installation (Français)](#-Installation)
+* [Installation (English)](#-Installation-1)
+* [Instalación (Español)](#-Installation-2)
 
 
 # Images
@@ -36,7 +36,7 @@ After Stylus is installed, click the install badge called "Install directly with
 
 And it should be done! If you encounter bugs, you can post them in the Issues section of the repo and if you have a fix, you can do a pull request.
 
-# 🇪🇸 Installation
+# 🇪🇸 Instalación
 
 Para instalar este tema, necesitarás la extensión Stylus (o Cascadea si usas Safari), que puedes conseguir en los enlaces de aquí abajo:
 
