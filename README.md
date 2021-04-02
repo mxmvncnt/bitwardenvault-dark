@@ -6,7 +6,7 @@ A dark mode for the web vault of Bitwarden
 * [Images (coming soon)](#Images)
 * [Installation (Français)](#-Installation)
 * [Installation (English)](#-Installation-1)
-* [Instalación (Español)](#-Installation-2)
+* [Instalación (Español)](#-instalación)
 
 
 # Images
