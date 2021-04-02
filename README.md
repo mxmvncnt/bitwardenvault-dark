@@ -6,6 +6,7 @@ A dark mode for the web vault of Bitwarden
 * [Images (coming soon)](#Images)
 * [Installation (Français)](#-🇫🇷-Installation)
 * [Installation (English)](#-🇬🇧-Installation)
+* [Installation (Español)](#-🇪🇸-Installation)
 
 
 # Images
@@ -36,3 +37,16 @@ you can get it for firefox, chrome, opera with the links below:
 After Stylus is installed, click the install badge called "Install directly with Stylus", or go to the [Stylebase](https://stylebase.cc/style/yUGZD52uYzJ) link.
 
 And it should be done! If you encounter bugs, you can post them in the Issues section of the repo and if you have a fix, you can do a pull request.
+
+# 🇪🇸 Installation
+
+Para instalar este tema, necesitarás la extensión Stylus (o Cascadea si usas Safari), que puedes conseguir en los enlaces de aquí abajo:
+
+1. [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+2. [Firefox add-ons](https://addons.mozilla.org/firefox/addon/styl-us/)
+3. [Opera add-ons](https://addons.opera.com/extensions/details/stylus/)
+4. [Para Safari: Cascadea](https://cascadea.app/)
+
+Una vez Stylus esté instalado, haz click en el botón instalar llamado «Instalar directamente con Stylus», o ve directamente al enlace de [Stylebase](https://stylebase.cc/style/yUGZD52uYzJ).
+
+¡Y esto sería todo! Si encuentras algún bug, puedes ponerlo en la sección de Issues de este repositorio y si encuentras su solución, puedes hacer una pull request con ella.
