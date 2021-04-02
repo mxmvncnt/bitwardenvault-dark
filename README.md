@@ -27,8 +27,6 @@ Et voila! Si vous encontrez des bugs, vous pouvez les signaler à partir de l'on
 # 🇬🇧 Installation
 To install this theme, you will need to get the Stylus extension (or Cascadea for Safari), that you can get with the links below:
 
-you can get it for firefox, chrome, opera with the links below: 
-
 1. [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
 2. [Firefox add-ons](https://addons.mozilla.org/firefox/addon/styl-us/)
 3. [Opera add-ons](https://addons.opera.com/extensions/details/stylus/)
