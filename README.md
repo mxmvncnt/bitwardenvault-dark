@@ -3,7 +3,7 @@
 A dark mode for the web vault of Bitwarden
 
 # Index
-* [Images (coming soon)](#Images)
+* [Image](#Images)
 * [Installation (Français)](#-Installation)
 * [Installation (English)](#-Installation-1)
 * [Instalación (Español)](#-instalación)
