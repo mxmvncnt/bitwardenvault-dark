@@ -10,7 +10,7 @@ A dark mode for the web vault of Bitwarden
 
 
 # Images
-![preview_screenshot](./images/asdf.png)
+![preview_screenshot](https://media.discordapp.net/attachments/646818237232709701/827443640191811615/unknown.png)
 
 # 🇫🇷 Installation
 Pour installer ce thème, il vous faut l'extension Stylus (ou Cascadea sur Safari), que vous pouvez installer depuis les liens suivants:
