@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Bitwarden_Dark
-@namespace      https://github.com/Adaoh2/bitwardenvault-dark/
-@version        1.0.2
+@namespace      https://github.com/Adaoh2/bitwardenvault-dark
+@version        1.0.3
 @description    A dark mode for the bitwarden vault
 @author         Adaoh2
 ==/UserStyle== */
@@ -45,6 +45,15 @@
         border: 0px;
         background-color: #1e1e1e;
     }
+    .btn-outline-secondary:not(:disabled):not(.disabled):active,
+    .swal2-popup .swal2-actions button.swal2-cancel:not(:disabled):not(.disabled):active,
+    .btn-outline-secondary:not(:disabled):not(.disabled).active,
+    .swal2-popup .swal2-actions button.swal2-cancel:not(:disabled):not(.disabled).active,
+    .show > .btn-outline-secondary.dropdown-toggle,
+    .swal2-popup .swal2-actions .show > button.dropdown-toggle.swal2-cancel {
+        color: #0079e4;
+        background-color: #1e1e1e;
+    }
 
     /*----- My Vault Page -----*/
     body {
@@ -69,6 +78,9 @@
     .table.table-list td .icon {
         color: #b9b9b9;
     }
+    .dropdown-item-text {
+    color: #fff;
+}
     /*--- Edit Item card----*/
     .modal-header,
     .modal-content,
@@ -100,6 +112,10 @@
     .list-group-item {
         background-color: #1e1e1e;
     }
+    .dropdown-item:hover, .dropdown-item:focus {
+    color: #e1e1e1;
+    background-color: #1a1a1a;
+}
     /*------ settings section ------*/
     .form-control:disabled,
     .form-control[readonly] {
@@ -108,5 +124,22 @@
     }
     .callout {
         background-color: #1e1e1e;
+    }
+    table.table.mb-2.ng-star-inserted,
+    table.table-hover.table-list.ng-star-inserted {
+        color: #c8c8c8;
+    }
+    .table-hover tbody tr:hover {
+        color: #c8c8c8;
+        background-color: #161616;
+    }
+    .dropdown-menu.show {
+        background-color: #1e1e1e;
+    }
+    .dropdown-item {
+        color: #c8c8c8;
+    }
+    .table {
+        color: #c8c8c8;
     }
 }
