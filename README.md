@@ -20,7 +20,7 @@ Pour installer ce thème, il vous faut l'extension Stylus (ou Cascadea sur Safar
 3. [Opera add-ons](https://addons.opera.com/extensions/details/stylus/)
 4. [Pour Safari: Cascadea](https://cascadea.app/)
 
-Une fois Stylus installé, cliquez sur le bouton "Install directly with Stylus" ou allez simplement sur mon lien [Stylebase](https://stylebase.cc/style/yUGZD52uYzJ).
+Une fois Stylus installé, cliquez sur le bouton "Install directly with Stylus" ou allez simplement sur mon lien [Userstyle.world](https://userstyles.world/style/1164/bitwarden-dark).
 
 Et voila! Si vous encontrez des bugs, vous pouvez les signaler à partir de l'onglet Issues et si vous avez une correction, n'hésitez pas à faire un Pull Request.
 
@@ -32,7 +32,7 @@ To install this theme, you will need to get the Stylus extension (or Cascadea fo
 3. [Opera add-ons](https://addons.opera.com/extensions/details/stylus/)
 4. [For Safari: Cascadea](https://cascadea.app/)
 
-After Stylus is installed, click the install badge called "Install directly with Stylus", or go to the [Stylebase](https://stylebase.cc/style/yUGZD52uYzJ) link.
+After Stylus is installed, click the install badge called "Install directly with Stylus", or go to the [Userstyle.world](https://userstyles.world/style/1164/bitwarden-dark) link.
 
 And it should be done! If you encounter bugs, you can post them in the Issues section of the repo and if you have a fix, you can do a pull request.
 
@@ -45,6 +45,6 @@ Para instalar este tema, necesitarás la extensión Stylus (o Cascadea si usas S
 3. [Opera add-ons](https://addons.opera.com/extensions/details/stylus/)
 4. [Para Safari: Cascadea](https://cascadea.app/)
 
-Una vez Stylus esté instalado, haz click en el botón instalar llamado «Instalar directamente con Stylus», o ve directamente al enlace de [Stylebase](https://stylebase.cc/style/yUGZD52uYzJ).
+Una vez Stylus esté instalado, haz click en el botón instalar llamado «Instalar directamente con Stylus», o ve directamente al enlace de [Userstyle.world](https://userstyles.world/style/1164/bitwarden-dark).
 
 ¡Y esto sería todo! Si encuentras algún bug, puedes ponerlo en la sección de Issues de este repositorio y si encuentras su solución, puedes hacer una pull request con ella.
